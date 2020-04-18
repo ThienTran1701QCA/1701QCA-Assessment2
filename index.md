@@ -8,16 +8,27 @@ When you have completed the template, submit the link to the GitHub Pages site f
 *Insert a name for the project as you conceive of it at the moment.*
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
+*Find about 6 related projects to the project you choose. 
 
 ### Related project 1 ###
-*Insert name of project*
+Micro:bit Electro Football 
 
-*Insert URL to project*
+https://make.techwillsaveus.com/microbit/activities/microfootball
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to my first design concept, because it allows the person to score a ball against a goalnet with the Micro:bit to keep track of the score. This project allowed me to visualise the utilisation of public space and how multiple sports can be played on one field. 
+
+### Related project 2 ###
+Don't touch the wire
+
+https://bryanmmathers.com/dont-touch-wire/
+
+![Image](missingimage.png)
+
+This project made me to realised that I can create different difficulty levels for a project, in which it aligns well with my second design concept.
+
+
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
@@ -72,8 +83,30 @@ Ensure you include comments about the choices you've made along the way.*
 
 ![Image](missingimage.png)
 
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+
+The images represent the earlier developments that I made in my second design concept, which ended up helping me to understand how certain materials interact with one another, and more importantly how I can utilise the materials to my advantage. For example, I can use the same aluminum material to design different challenges throughout the game. 
+
+The following image relates to how the second design concept systematically run via coding.
+![Image](missingimage.png)
+
+After experimenting with the second design concept, I created my third concept using the knowledge I gained and the avaialble materials that I have at my disposal. Following the interaction flowchart and the overall design itself, I generated the concept and it is represented as follow:
+
+
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+
+I am going to utilise the Double Diamond design methodology, as they perfectly capture the design process that I went through during this assessment. From the discover and define stages, I wanted to create a project that can either contribute to the local community by maximsing public spaces or to devote my 
+
+
+
+After applying the Double Diamond design methodolgy and actually creating a prototype for a rendition of my second design concept, I realised that I want to contribute some efforts to alleviate the situation of the padenmic and create a game that will keep the same concept as my second design concept. 
+Arguably, my third concept came from the developmental phase of the Double Diamond methodolgy, where I creatively design a project based off the hand-eye coordination focal concept. I realised that my second concept design can easily be replicated and has been achieved by numerous Mirco:bit projects, and in order to deliver a successful outcome for this assessment, I would have to design an interesting design that shows an in-depth level of technical development and physical fabrication.
+Revolving around the task's underlying requirements and my own criteria, I created a prototype using the same materials and knowledge as my second design concept. 
+
 
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
