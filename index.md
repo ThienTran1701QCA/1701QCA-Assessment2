@@ -77,11 +77,9 @@ Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
-![Image](IMG_0389.jpg)
+![Image](IMG_0389.jpeg)
 
-![Image](missingimage.png)
-
-The images represent the earlier developments that I made in my second design concept, which ended up helping me to understand how certain materials interact with one another, and more importantly how I can utilise the materials to my advantage. For example, I can use the same aluminum material to design different challenges throughout the game. 
+The image represents the earlier developments that I made in my second design concept, which ended up helping me to understand how certain materials interact with one another, and more importantly how I can utilise the materials to my advantage. For example, I can use the same aluminum material to design different challenges throughout the game. 
 
 The following image relates to how the second design concept systematically run via coding.
 
