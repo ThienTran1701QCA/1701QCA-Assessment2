@@ -55,7 +55,7 @@ The third idea was to have more than 2 sports, but on a bigger scale, similar to
 ### Design concept 2 ###
 I switched my original idea to contribute efforts in the current Covid-19 Pandemic, by potentially encouraging people to stay indoors. This will be done through increasing people's attention span and determination, as people will attempt to not touch aluminum coil whilst crossing it throughout different levels and challenges. The project will be call Don't Touch The Wire. 
 
-![Image](missingimage.png)
+![Image](IMG_0380.jpg)
 
 ### Final design concept ###
 The second design concept gave me the overall concept for my project: hand-eye coordination. Using the materials and concept from my second concept, I am able to create a family-friendly game where people will try to grab a prize without touching the surrounding to avoid loosing and triggering the alarm on.
@@ -95,6 +95,8 @@ After experimenting with the second design concept, I created my third concept u
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+
+![Image](bb19c2522081dad7f682c10d99a07903.jpg)
 
 I am going to utilise the Double Diamond design methodology, as they perfectly capture the design process that I went through during this assessment. I wanted to create a project that can either contribute to the local community by maximsing public spaces or to devote my efforts into the Covid-19 pandemic. These two directions helped me to begin with the discover and define stages, where I discovered the topics that I am interested in and defined the different projects that I could explore.
 
