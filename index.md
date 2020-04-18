@@ -11,7 +11,7 @@ Micro:bit Electro Football
 
 https://make.techwillsaveus.com/microbit/activities/microfootball
 
-![Image](missingimage.png)
+![Image](jlkjlkjlkjkljlkjlkjlkj.png)
 
 This project is related to my first design concept, because it allows the person to score a ball against a goalnet with the Micro:bit to keep track of the score. This project allowed me to visualise the utilisation of public space and how multiple sports can be played on one field. 
 
@@ -20,7 +20,7 @@ Don't touch the wire
 
 https://bryanmmathers.com/dont-touch-wire/
 
-![Image](missingimage.png)
+![Image](asdafasdfsdfdsfadsfdsf.png)
 
 This project made me to realised that I can create different difficulty levels for a project, in which it aligns well with my second design concept.
 
