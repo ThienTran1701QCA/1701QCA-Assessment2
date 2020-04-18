@@ -83,7 +83,7 @@ The image represents the earlier developments that I made in my second design co
 
 The following image relates to how the second design concept systematically run via coding.
 
-![Image](Ảnh chụp Màn hình 2020-04-18 lúc 9.19.34 CH.png)
+![Image](afjdskafldjflsf.png)
 
 After experimenting with the second design concept, I created my third concept using the knowledge I gained and the avaialble materials that I have at my disposal. Following the interaction flowchart and the overall design itself, I generated the concept and it is represented as follow:
 
