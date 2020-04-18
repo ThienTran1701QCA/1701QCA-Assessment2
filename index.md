@@ -1,11 +1,7 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
-You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects. The comments in italics throughout the template give suggestions about what to include. Feel free to delete those instructions when you have completed the sections.
-
-When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
-
 ## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+Hunters
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. 
@@ -28,6 +24,8 @@ https://bryanmmathers.com/dont-touch-wire/
 
 This project made me to realised that I can create different difficulty levels for a project, in which it aligns well with my second design concept.
 
+### Related project 3 ###
+
 
 
 ## Other research ##
@@ -37,10 +35,11 @@ This project made me to realised that I can create different difficulty levels f
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 
+
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+Hunt the prize using hand-eye coordiation whilst avoiding the obstacle. 
 
 ### Design concept 1 ###
 Originally I wanted to develop a sport field/facility that will allow different types of sports to be played within a confined space. The field can be made by a shoebox or an object with similar dimensions. 
@@ -59,6 +58,7 @@ The third idea was to have more than 2 sports, but on a bigger scale, similar to
 
 ### Design concept 2 ###
 I switched my original idea to contribute efforts in the current Covid-19 Pandemic, by potentially encouraging people to stay indoors. This will be done through increasing people's attention span and determination, as people will attempt to not touch aluminum coil whilst crossing it throughout different levels and challenges. The project will be call Don't Touch The Wire. 
+
 ![Image](missingimage.png)
 
 ### Final design concept ###
@@ -91,21 +91,24 @@ Ensure you include comments about the choices you've made along the way.*
 The images represent the earlier developments that I made in my second design concept, which ended up helping me to understand how certain materials interact with one another, and more importantly how I can utilise the materials to my advantage. For example, I can use the same aluminum material to design different challenges throughout the game. 
 
 The following image relates to how the second design concept systematically run via coding.
+
 ![Image](missingimage.png)
 
 After experimenting with the second design concept, I created my third concept using the knowledge I gained and the avaialble materials that I have at my disposal. Following the interaction flowchart and the overall design itself, I generated the concept and it is represented as follow:
+
+![Image](missingimage.png)
+
 
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
-I am going to utilise the Double Diamond design methodology, as they perfectly capture the design process that I went through during this assessment. From the discover and define stages, I wanted to create a project that can either contribute to the local community by maximsing public spaces or to devote my 
+I am going to utilise the Double Diamond design methodology, as they perfectly capture the design process that I went through during this assessment. I wanted to create a project that can either contribute to the local community by maximsing public spaces or to devote my efforts into the Covid-19 pandemic. These two directions helped me to begin with the discover and define stages, where I discovered the topics that I am interested in and defined the different projects that I could explore.
 
-
-
-After applying the Double Diamond design methodolgy and actually creating a prototype for a rendition of my second design concept, I realised that I want to contribute some efforts to alleviate the situation of the padenmic and create a game that will keep the same concept as my second design concept. 
+After creating a prototype for a rendition of my second design concept, I realised that I want to contribute some efforts to alleviate the situation of the padenmic and create a game that will keep the same concept as my second design concept. 
 Arguably, my third concept came from the developmental phase of the Double Diamond methodolgy, where I creatively design a project based off the hand-eye coordination focal concept. I realised that my second concept design can easily be replicated and has been achieved by numerous Mirco:bit projects, and in order to deliver a successful outcome for this assessment, I would have to design an interesting design that shows an in-depth level of technical development and physical fabrication.
-Revolving around the task's underlying requirements and my own criteria, I created a prototype using the same materials and knowledge as my second design concept. 
+
+Revolving around the task's underlying requirements and my own criteria, I created a prototype for my final concept, using the same materials and knowledge as my second design concept. In which, the prototype ultimately became my project for this assessment.  
 
 
 ## Next steps ##
