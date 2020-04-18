@@ -44,11 +44,7 @@ Hunt the prize using hand-eye coordiation whilst avoiding the obstacle.
 ### Design concept 1 ###
 Originally I wanted to develop a sport field/facility that will allow different types of sports to be played within a confined space. The field can be made by a shoebox or an object with similar dimensions. 
 
-The first idea was to have a sport field that can hold 2 sports: international football and basketball, but they can't be played concurrently - as only one net at one end to score.
-
-![Image](missingimage.png)
-
-The second idea was to have the same 2 sports but with a divider net/wall in between, have multiple Micro:bit to keep score, and can play concurrently. 
+The first idea was to have a sport field that can hold 2 sports: international football and basketball, but they can't be played concurrently - as only one net at one end to score. The second idea was to have the same 2 sports but with a divider net/wall in between, have multiple Micro:bit to keep score, and can play concurrently. 
 
 ![Image](missingimage.png)
 
