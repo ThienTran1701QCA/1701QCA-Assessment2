@@ -50,7 +50,7 @@ The first idea was to have a sport field that can hold 2 sports: international f
 
 The third idea was to have more than 2 sports, but on a bigger scale, similar to the size of a coffee table or something to the extent. 
 
-![Image](missingimage.png)
+![Image](Concept3Chosen.jpg)
 
 ### Design concept 2 ###
 I switched my original idea to contribute efforts in the current Covid-19 Pandemic, by potentially encouraging people to stay indoors. This will be done through increasing people's attention span and determination, as people will attempt to not touch aluminum coil whilst crossing it throughout different levels and challenges. The project will be call Don't Touch The Wire. 
