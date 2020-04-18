@@ -83,10 +83,7 @@ Ensure you include comments about the choices you've made along the way.*
 
 ![Image](missingimage.png)
 
-![Image](missingimage.png)
-
-![Image](missingimage.png)
-
+![Image](Concepts 1 & 2.jpg)
 
 The images represent the earlier developments that I made in my second design concept, which ended up helping me to understand how certain materials interact with one another, and more importantly how I can utilise the materials to my advantage. For example, I can use the same aluminum material to design different challenges throughout the game. 
 
