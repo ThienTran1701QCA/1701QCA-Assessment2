@@ -51,7 +51,7 @@ I switched my original idea to contribute efforts in the current Covid-19 Pandem
 ![Image](missingimage.png)
 
 ### Final design concept ###
-The second design concept gave me the overall concept for my project: hand-eye coordination. Using the materials and concept from my second concept, I am able to create a family-friendly game where people will try to grab a prize without touching the surrounding to avoid loosing and setting the buzzer on.
+The second design concept gave me the overall concept for my project: hand-eye coordination. Using the materials and concept from my second concept, I am able to create a family-friendly game where people will try to grab a prize without touching the surrounding to avoid loosing and triggering the alarm on.
 
 ![Image](missingimage.png)
 
