@@ -64,7 +64,6 @@ The second design concept gave me the overall concept for my project: hand-eye c
 
 
 ### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
 ![Image](IMG_0391.jpeg)
 
@@ -87,7 +86,21 @@ The following image relates to how the second design concept systematically run 
 
 After experimenting with the second design concept, I created my third concept using the knowledge I gained and the avaialble materials that I have at my disposal. Following the interaction flowchart and the overall design itself, I generated the concept and it is represented as follow:
 
-![Image](missingimage.png)
+![Image](IMG_0393.jpeg)
+
+However, I felt like I needed to do further experiment with certain materials from my third design concept, in order to finalise my chosen design for the assessment. During the experiment, I realised that a cardbox might provide a stable platform for my project but it wouldn't give me the flexibility I needed, in which I switched to a styrofoam material as my project's platform. The following image provides the different layers for my project at this experimental stage: 
+
+![Image](IMG_0399.jpeg)
+
+The next experimental stages were centered around constructing the basic mechanics of the project. This will contribute largely to my understanding of how the materials work together, and allow me to finish the experimental stage by building the project. 
+
+![Image](IMG_0394.jpeg)
+
+The image shows the different circles that are engraved by the aluminum foil into the styrofoam, which acts as the "pocket" holder for the prizes. It is imperative to take note that the circles are replicas of the actual "pocket" holders for the assessment, as this is currently an experimental one. 
+
+![Image](IMG_0395.jpeg)
+
+In order to complete the "pocket" holders for the prizes, the paper as shown in the image therefore acts as a cover for the "pocket" holder and a divider of the aluminum foil. 
 
 
 
