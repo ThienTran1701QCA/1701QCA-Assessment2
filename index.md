@@ -69,13 +69,6 @@ The second design concept gave me the overall concept for my project: hand-eye c
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
-
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
-
 ![Image](IMG_0389.jpeg)
 
 The image represents the earlier developments that I made in my second design concept, which ended up helping me to understand how certain materials interact with one another, and more importantly how I can utilise the materials to my advantage. For example, I can use the same aluminum material to design different challenges throughout the game. 
@@ -104,7 +97,15 @@ In order to complete the "pocket" holders for the prizes, the paper as shown in 
 
 ![Image](qqowerwer.png)
 
-The following code demonstrates the current coding for this assessment. In which the images below will justify why I've set up the code in this particular order.
+The following code demonstrates the current coding for this assessment. Since there are only two results when a person plays the game - which is either to lose and having to restart or wins the game, the code is therefore set up in this order. The first image represents the second result - which is that they either have won the game or is still playing, hence the tick.
+
+![Image](IMG_0396.jpeg)
+
+Whereas, the next image depicts when the player loses by touching the aluminum foil using the clipper, and therefore has to restart the game. 
+
+![Image](IMG_0397.jpeg)
+
+It is important to remember that the previous few images demonstrate the experimental stage of this project, in which the following images demonstrates the refinement and subsequent developement for the final submission of this assessment. 
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
@@ -116,12 +117,7 @@ I am going to utilise the Double Diamond design methodology, as they perfectly c
 After creating a prototype for a rendition of my second design concept, I realised that I want to contribute some efforts to alleviate the situation of the padenmic and create a game that will keep the same concept as my second design concept. 
 Arguably, my third concept came from the developmental phase of the Double Diamond methodolgy, where I creatively design a project based off the hand-eye coordination focal concept. I realised that my second concept design can easily be replicated and has been achieved by numerous Mirco:bit projects, and in order to deliver a successful outcome for this assessment, I would have to design an interesting design that shows an in-depth level of technical development and physical fabrication.
 
-Revolving around the task's underlying requirements and my own criteria, I created a prototype for my final concept, using the same materials and knowledge as my second design concept. The following image lists the different materials that my project will require:
-
-![Image](IMG_0392.jpeg)
-
-
-In which, the prototype ultimately became my project for this assessment.  
+Revolving around the task's underlying requirements and my own criteria, I created a prototype for my final concept, using the same materials and knowledge as my second design concept. In which, the prototype ultimately became my project for this assessment.  
 
 
 ## Next steps ##
