@@ -102,7 +102,9 @@ The image shows the different circles that are engraved by the aluminum foil int
 
 In order to complete the "pocket" holders for the prizes, the paper as shown in the image therefore acts as a cover for the "pocket" holder and a divider of the aluminum foil. 
 
+![Image](qqowerwer.png)
 
+The following code demonstrates the current coding for this assessment. In which the images below will justify why I've set up the code in this particular order.
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
