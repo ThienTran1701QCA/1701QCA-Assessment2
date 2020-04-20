@@ -107,6 +107,8 @@ Whereas, the next image depicts when the player loses by touching the aluminum f
 
 It is important to remember that the previous few images demonstrate the experimental stage of this project, in which the following images demonstrates the refinement and subsequent developement for the final submission of this assessment. 
 
+
+
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
@@ -118,9 +120,6 @@ After creating a prototype for a rendition of my second design concept, I realis
 Arguably, my third concept came from the developmental phase of the Double Diamond methodolgy, where I creatively design a project based off the hand-eye coordination focal concept. I realised that my second concept design can easily be replicated and has been achieved by numerous Mirco:bit projects, and in order to deliver a successful outcome for this assessment, I would have to design an interesting design that shows an in-depth level of technical development and physical fabrication.
 
 Revolving around the task's underlying requirements and my own criteria, I created a prototype for my final concept, using the same materials and knowledge as my second design concept. In which, the prototype ultimately became my project for this assessment.  
-
-![Image](IMG_0400.jpeg)
-
 
 
 ## Next steps ##
