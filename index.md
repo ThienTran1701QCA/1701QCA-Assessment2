@@ -109,6 +109,10 @@ It is important to remember that the previous few images demonstrate the experim
 
 As I transition from the experimental stage to building the project, I made several implementations that are as follow: 
 
+![Image](IMG_0400.jpeg)
+
+The newly made layers for my project during the post-experimental stage.
+
 ![Image](IMG_0402.jpeg)
 
 Increased the circumference of the "pockets" for the prize, in order to fit the obstacles and more prizes into one circle.
