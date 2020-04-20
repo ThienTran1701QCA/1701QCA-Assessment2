@@ -129,6 +129,20 @@ The addition of the obstacles that are made of recycled wrapped aluminum foil fr
 
 The diversity of the obstacles, making it more challenging for the player to get to the prize. 
 
+![Image](IMG_0406.jpeg)
+
+![Image](IMG_0407.jpeg)
+
+![Image](IMG_0408.jpeg)
+
+The different perspectives of my project, without the prizes filled in the "pockets".
+
+![Image](IMG_0409.jpeg)
+
+![Image](IMG_0410.jpeg)
+
+The different angles of my project after being filled by the prizes, where the obstacles surrounding makes it complicated for the players to obtain the prizes. 
+
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
