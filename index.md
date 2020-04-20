@@ -60,12 +60,12 @@ I switched my original idea to contribute efforts in the current Covid-19 Pandem
 ### Final design concept ###
 The second design concept gave me the overall concept for my project: hand-eye coordination. Using the materials and concept from my second concept, I am able to create a family-friendly game where people will try to grab a prize without touching the surrounding to avoid loosing and triggering the alarm on.
 
-![Image](IMG_0393.jpeg)
+![Image](IMG_0400.jpeg)
 
 
 ### Interaction flowchart ###
 
-![Image](IMG_0400.jpeg)
+![Image](IMG_0391.jpeg)
 
 ## Physical experimentation documentation ##
 
