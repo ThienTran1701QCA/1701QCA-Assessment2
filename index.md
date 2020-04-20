@@ -65,7 +65,7 @@ The second design concept gave me the overall concept for my project: hand-eye c
 
 ### Interaction flowchart ###
 
-![Image](IMG_0391.jpeg)
+![Image](IMG_0400.jpeg)
 
 ## Physical experimentation documentation ##
 
@@ -107,7 +107,9 @@ Whereas, the next image depicts when the player loses by touching the aluminum f
 
 It is important to remember that the previous few images demonstrate the experimental stage of this project, in which the following images demonstrates the refinement and subsequent developement for the final submission of this assessment. 
 
+As I transition from the experimental stage to building the project, I made several implementations that are as follow: 
 
+![Image](IMG_0402.jpeg)
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
