@@ -111,7 +111,9 @@ As I transition from the experimental stage to building the project, I made seve
 
 ![Image](IMG_0400.jpeg)
 
-The newly made layers for my project during the post-experimental stage.
+![Image](IMG_0401.jpeg)
+
+The newly made layers and materials for my project during the post-experimental stage.
 
 ![Image](IMG_0402.jpeg)
 
@@ -124,6 +126,8 @@ The addition of the obstacles that are made of recycled wrapped aluminum foil fr
 ![Image](IMG_0404.jpeg)
 
 ![Image](IMG_0405.jpeg)
+
+The diversity of the obstacles, making it more challenging for the player to get to the prize. 
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
