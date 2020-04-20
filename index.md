@@ -119,6 +119,9 @@ Arguably, my third concept came from the developmental phase of the Double Diamo
 
 Revolving around the task's underlying requirements and my own criteria, I created a prototype for my final concept, using the same materials and knowledge as my second design concept. In which, the prototype ultimately became my project for this assessment.  
 
+![Image](IMG_0400.jpeg)
+
+
 
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
