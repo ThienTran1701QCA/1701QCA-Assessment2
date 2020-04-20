@@ -4,7 +4,6 @@
 Hunters
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. 
 
 ### Related project 1 ###
 Micro:bit Electro Football 
@@ -13,7 +12,7 @@ https://make.techwillsaveus.com/microbit/activities/microfootball
 
 ![Image](jlkjlkjlkjkljlkjlkjlkj.png)
 
-This project is related to my first design concept, because it allows the person to score a ball against a goalnet with the Micro:bit to keep track of the score. This project allowed me to visualise the utilisation of public space and how multiple sports can be played on one field. 
+This project is related to my first design concept, because it allows the person to win a game when they've accomplished a series of tasks. 
 
 ### Related project 2 ###
 Don't touch the wire
@@ -22,9 +21,41 @@ https://bryanmmathers.com/dont-touch-wire/
 
 ![Image](asdafasdfsdfdsfadsfdsf.png)
 
-This project made me to realised that I can create different difficulty levels for a project, in which it aligns well with my second design concept.
+This project made me to realised that I can create different difficulty levels for a project.
 
 ### Related project 3 ###
+Making a room alarm with your Micro:bit
+
+https://www.youtube.com/watch?time_continue=821&v=igeUhVMqVRw&feature=emb_logo
+
+![Image]()
+
+In terms of the materials and mechnaics of this project, they share basic similarities to my third design concept. 
+
+### Related project 4 ###
+Simple Reaction Game
+
+http://web1.muirfield-h.schools.nsw.edu.au/mahara/view/view.php?id=15903
+
+![Image]()
+
+The circuitry of this project is relatively similar to my third design concept, in the way that if the aluminium foil is tapped, the Micro:bit will be triggered and an action will follow. 
+
+### Rekated project 5 ###
+DIY #micro:bit Toss Game
+
+https://www.youtube.com/watch?v=aa11moVsfOg
+
+![Image]()
+
+The main elements of this project: aluminum foil, and basic circuitry logic matches my third design concept.
+
+### Related project 6 ###
+Foil Circuits
+
+https://makecode.microbit.org/device/foil-circuits
+
+![Image]()
 
 
 
