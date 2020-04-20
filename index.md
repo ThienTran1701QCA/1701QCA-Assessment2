@@ -111,6 +111,16 @@ As I transition from the experimental stage to building the project, I made seve
 
 ![Image](IMG_0402.jpeg)
 
+Increased the circumference of the "pockets" for the prize, in order to fit the obstacles and more prizes into one circle.
+
+![Image](IMG_0403.jpeg)
+
+The addition of the obstacles that are made of recycled wrapped aluminum foil from my project's experimental stage.
+
+![Image](IMG_0404.jpeg)
+
+![Image](IMG_0405.jpeg)
+
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
