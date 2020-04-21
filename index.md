@@ -65,7 +65,8 @@ https://makecode.microbit.org/device/foil-circuits
 ### *Brief resource name/description* ###
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
-
+In terms of the overall project, I was inspired by the disastrous impacts of the Covid-19 Pandemic and the heroic individuals that are working effortlessly everyday to stop the pandemic. One project that comes to mind is the Australian Government's Coronavirus Australia mobile phone app. The app encourages Australians to stay positive and healthy admist the pandemic through different ways: providing health advice, get instant access to the current situation in Australia, check symptoms, find relevant infromation, and etc. The app is available on both the App Store and the Google Play Store, and is suitable for IOS and Android. 
+The app is unrelated to my project, but it made me to realise that I can create a simple game that encourages people to stay indoors, to collectively challenge and play the game with people in their household, and to potentially have something to keep their mind busy through improving their hand-eye coordination.
 
 ## Conceptual progress ##
 
