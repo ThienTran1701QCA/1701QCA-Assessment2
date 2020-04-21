@@ -51,20 +51,25 @@ https://www.youtube.com/watch?v=aa11moVsfOg
 The main elements of this project: aluminum foil, and basic circuitry logic matches my third design concept.
 
 ### Related project 6 ###
-Foil Circuits
+BBC mirco:bit Electro Fingers
 
-https://makecode.microbit.org/device/foil-circuits
+https://make.techwillsaveus.com/microbit/activities/electro-fingers
 
 ![Image]()
 
-
+Same concept but different method and rules as my third design concept. The concept only allows the player to pick up the prize that is surrounded by obstacles using only a picker, whereas, the related project allows the player to use a knitted glove to pick up the maximum amount of prizes per turn.
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+https://study.com/academy/lesson/what-is-hand-eye-coordination-definition-skills-development.html
+The chosen project focuses largely on the concept of hand-eye coordination. Hand-eye coordiation is vastly important in daily life, where simple tasks can be seen as impossible without/with low hand-eye coordination. The coordiation, therefore, can be defined as "the use of eyes to direct muscles towards a task", where it can be used to control small and large movements (study.com). 
+
+https://ilslearningcorner.com/2016-02-hand-eye-coordination-how-hand-eye-coordination-helps-early-readers/
+To help me to understand why hand-eye coordination is important, Integrated Learning Strategies simply views the concept as important elements in a person's "proprioception, vestibular, visual processing and sensory-motor. If the person struggles with hand-eye coordination, you may find they have a hard time with balance and coordination, focusing their eyes on their hand movements, poor handwriting, playing sports, and trouble griping their pencil." This means that hand-eye coordination is a life skills that most people must have in great amount, however, one should be entitled to improve on the important life skils while living in the quick paced lifestyle in today's world.
+
+https://make.techwillsaveus.com/microbit/activities/electro-fingers
+The following project provided an insight of how I envisioned my third design concept. The methods and concept are similar, in which I can turn my third concept into reality by understanding the operations and order in this project. In addition, this project is a prime example of a Micro:bit project in action with relations to the hand-eye coordination concept.
 
 ### *Brief resource name/description* ###
-
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 In terms of the overall project, I was inspired by the disastrous impacts of the Covid-19 Pandemic and the heroic individuals that are working effortlessly everyday to stop the pandemic. One project that comes to mind is the Australian Government's Coronavirus Australia mobile phone app. The app encourages Australians to stay positive and healthy admist the pandemic through different ways: providing health advice, get instant access to the current situation in Australia, check symptoms, find relevant infromation, and etc. The app is available on both the App Store and the Google Play Store, and is suitable for IOS and Android. 
 The app is unrelated to my project, but it made me to realise that I can create a simple game that encourages people to stay indoors, to collectively challenge and play the game with people in their household, and to potentially have something to keep their mind busy through improving their hand-eye coordination.
 
@@ -189,4 +194,4 @@ Revolving around the task's underlying requirements and my own criteria, I creat
 
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+Set a limit timer in the code, allowing the player to only have limited time to pick up the prizes. 
