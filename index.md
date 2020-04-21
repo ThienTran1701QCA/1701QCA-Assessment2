@@ -190,8 +190,10 @@ I am going to utilise the Double Diamond design methodology, as they perfectly c
 After creating a prototype for a rendition of my second design concept, I realised that I want to contribute some efforts to alleviate the situation of the padenmic and create a game that will keep the same concept as my second design concept. 
 Arguably, my third concept came from the developmental phase of the Double Diamond methodolgy, where I creatively design a project based off the hand-eye coordination focal concept. I realised that my second concept design can easily be replicated and has been achieved by numerous Mirco:bit projects, and in order to deliver a successful outcome for this assessment, I would have to design an interesting design that shows an in-depth level of technical development and physical fabrication.
 
-Revolving around the task's underlying requirements and my own criteria, I created a prototype for my final concept, using the same materials and knowledge as my second design concept. In which, the prototype ultimately became my project for this assessment.  
-
+Revolving around the task's underlying requirements and my own criteria, I created a prototype for my final concept, using the same materials and knowledge as my second design concept. The developments of the prototype can also be reflected in relations to the conducted research on non-related and related materials/projects, where I was laregly inspired by the works of those who are contributing efforts in combating against the global crisis, in which it motivated me to create a game that allows a player to improve the important hand-eye coordination lifeskill whilst encouraging them to stay indoors to prevent the pandemic from spreading. 
 
 ## Next steps ##
 Set a limit timer in the code, allowing the player to only have limited time to pick up the prizes. 
+Refine the outer layer of the prototype to make it more visually appealing, by either design a wrapper using cardbox as the material (as cardbox is an easy-to-access material at home), or to change the current styrofoam based to something different.
+Creatively paint the entire game to add more texture and dynamic to the game.
+Possibly change the current aluminum foil obstacle to use a different material. 
