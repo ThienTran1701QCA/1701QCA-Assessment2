@@ -197,3 +197,4 @@ Set a limit timer in the code, allowing the player to only have limited time to 
 Refine the outer layer of the prototype to make it more visually appealing, by either design a wrapper using cardbox as the material (as cardbox is an easy-to-access material at home), or to change the current styrofoam based to something different.
 Creatively paint the entire game to add more texture and dynamic to the game.
 Possibly change the current aluminum foil obstacle to use a different material. 
+Either altering the frequency of the speaker or change to a louder speaker. Alerting the frequency/music of the current speaker would be the best option at the moment, as this is to limit stepping outside the house during the pandemic.
