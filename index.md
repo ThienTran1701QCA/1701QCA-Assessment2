@@ -28,7 +28,7 @@ Making a room alarm with your Micro:bit
 
 https://www.youtube.com/watch?time_continue=821&v=igeUhVMqVRw&feature=emb_logo
 
-![Image]()
+![Image](oeiroewirowurewpoiqrupoewr.png)
 
 In terms of the materials and mechnaics of this project, they share basic similarities to my third design concept. 
 
@@ -37,7 +37,7 @@ Simple Reaction Game
 
 http://web1.muirfield-h.schools.nsw.edu.au/mahara/view/view.php?id=15903
 
-![Image]()
+![Image](sdfsdjklfjdfmvxcmvncmnv.png)
 
 The circuitry of this project is relatively similar to my third design concept, in the way that if the aluminium foil is tapped, the Micro:bit will be triggered and an action will follow. 
 
@@ -46,7 +46,7 @@ DIY #micro:bit Toss Game
 
 https://www.youtube.com/watch?v=aa11moVsfOg
 
-![Image]()
+![Image](hvnvnvndkddoodpdpd.png)
 
 The main elements of this project: aluminum foil, and basic circuitry logic matches my third design concept.
 
@@ -55,7 +55,7 @@ BBC mirco:bit Electro Fingers
 
 https://make.techwillsaveus.com/microbit/activities/electro-fingers
 
-![Image]()
+![Image](pivjnvcncvncnncvnvc.png)
 
 Same concept but different method and rules as my third design concept. The concept only allows the player to pick up the prize that is surrounded by obstacles using only a picker, whereas, the related project allows the player to use a knitted glove to pick up the maximum amount of prizes per turn.
 
